@@ -1,0 +1,11 @@
+{
+  "name": "MLP_G5_Wildhack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CapybaraBar/MLP_G5_Wildhack.git",
+  "author": "mrcheater <mister.cheater@list.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
